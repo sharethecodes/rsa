@@ -1,0 +1,4 @@
+/home/oem/Dokumente/rsatest1/build/CMakeFiles/main.dir
+/home/oem/Dokumente/rsatest1/build/CMakeFiles/test.dir
+/home/oem/Dokumente/rsatest1/build/CMakeFiles/edit_cache.dir
+/home/oem/Dokumente/rsatest1/build/CMakeFiles/rebuild_cache.dir
